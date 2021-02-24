@@ -2,12 +2,12 @@
 ICPC Sinchon 2021 Winter Algorithm Camp 고급반에서 진행한 강의의 강의자료들입니다.
 
 제가 강사로서 진행한 주제는 아래의 총 6개입니다.
-1. Fast Fourier Transform in Problem Solving
-2. Convex Hull Trick
-3. Divide and Conquer Optimization
-4. Centroid Decomposition
-5. Persistent Segment Tree
-6. Splay Tree
+1. Fast Fourier Transform in Problem Solving    [강의](https://www.youtube.com/watch?v=YYqE3L4ByrY)
+2. Convex Hull Trick                            [강의](https://www.youtube.com/watch?v=qsDIXh7OvLk)
+3. Divide and Conquer Optimization              [강의](https://www.youtube.com/watch?v=Y4BCqib-zok)
+4. Centroid Decomposition                       [강의](https://www.youtube.com/watch?v=gfGOa8y_5_Y&feature=youtu.be)
+5. Persistent Segment Tree                      [강의](https://www.youtube.com/watch?v=rng-nMzc9NY&feature=youtu.be)
+6. Splay Tree                                   [강의](https://youtu.be/mtdLFxQoex8)
 
 Lecture_Note로 끝나는 것은 내용에 집중한 강의 자료이고, Problems는 연습문제로 선정한 문제목록과 그 중 몇 개에 대한 풀이가 있습니다.
 Splay_Tree의 경우 합쳐져 있습니다.
