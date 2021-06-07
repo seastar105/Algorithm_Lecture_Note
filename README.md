@@ -2,7 +2,7 @@
 ICPC Sinchon 2021 Winter Algorithm Camp 고급반에서 진행한 강의의 강의자료들입니다.
 
 제가 강사로서 진행한 주제는 아래의 총 6개입니다.
-1. Fast Fourier Transform in Problem Solving    [강의](https://www.youtube.com/watch?v=YYqE3L4ByrY)
+1. Fast Fourier Transform in Problem Solving    
 2. Convex Hull Trick                            [강의](https://www.youtube.com/watch?v=qsDIXh7OvLk)
 3. Divide and Conquer Optimization              [강의](https://www.youtube.com/watch?v=Y4BCqib-zok)
 4. Centroid Decomposition                       [강의](https://www.youtube.com/watch?v=gfGOa8y_5_Y&feature=youtu.be)
